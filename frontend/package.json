@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
-    "@angular-devkit/build-angular": "^16.2.0",
+    "@angular-devkit/build-angular": "^19.2.5",
     "@angular-eslint/builder": "^16.1.0",
     "@angular-eslint/eslint-plugin": "^16.1.0",
     "@angular-eslint/eslint-plugin-template": "^16.1.0",
@@ -60,7 +60,7 @@
     "webpack-bundle-analyzer": "^4.4.2"
   },
   "dependencies": {
-    "@angular-builders/custom-webpack": "^16.0.0",
+    "@angular-builders/custom-webpack": "^19.0.0",
     "@angular/animations": "^16.2.0",
     "@angular/cdk": "^16.2.0",
     "@angular/cli": "^16.2.0",
